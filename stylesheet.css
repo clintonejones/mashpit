@@ -1,0 +1,55 @@
+body {
+    background: rgba(60, 179, 113, 0.8);
+    Margin-left: 200px;
+    margin-right: 200px;
+    height: 1000px;
+    
+}
+
+html {
+    background: url(http://steelpantherrocks.com/wp-content/uploads/2016/02/12716308_10153879218686768_5948166818857356707_o.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+td {
+    border: 3px solid rgba(255,69,0, 0.5);
+}
+
+table {
+    position: relative;
+    Float: right;
+    width: 60%;
+    height: 600px;
+    margin: 20 10 20 30;
+}
+
+li {
+    position: relative;
+    list-style-type: none;
+    text-align: justify;
+    padding: 2 4 2 4;
+    background-color: rgba(244, 164, 96, 0.5);
+    margin-bottom: 4px;
+    Margin-right: 4px;
+    Margin-left: 4px;
+    margin-top: 4px;
+    height: 275;
+    width: 150;
+   
+}
+
+#pale, #pete {
+    margin-top: -20;
+}
+
+h3 {
+    text-align: center;
+   
+}
+
+
+
+
+
+
